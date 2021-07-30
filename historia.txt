@@ -14,4 +14,8 @@ Retomamos el curso de GIT, hoy es 25 Julio 2021.
 
 Cambio 1 en Master
 
+<<<<<<< HEAD
 Cambio 2 en Master
+=======
+Cambio en rama experimental 1
+>>>>>>> a8ef142 ([2] Cambio en Experimental de historia.txt)
